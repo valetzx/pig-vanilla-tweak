@@ -1,0 +1,21 @@
+Vanilla Tweaks Resource Pack
+Version: 1.19
+Packs:
+	MineProgressBar
+	BrewingGuide
+	VisualHoney
+	VisualCauldronStages
+	VisualComposterStages
+	ClearerWater
+	DifferentStems
+	AshlessCampfires
+	PixelConsistentXPOrbs
+	NicerFastLeaves
+	MoreCrosshairs-Square
+	PingColorIndicator
+	WitherHearts
+	NoFog
+	LowerShield
+	LowerFire
+	NoPumpkinOverlay
+	NoSpyglassOverlay
