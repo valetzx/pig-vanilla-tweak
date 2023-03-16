@@ -19,3 +19,5 @@ Packs:
 	LowerFire
 	NoPumpkinOverlay
 	NoSpyglassOverlay
+Add new:
+	WarmGlow
