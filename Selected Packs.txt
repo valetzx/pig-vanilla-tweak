@@ -21,3 +21,5 @@ Packs:
 	NoSpyglassOverlay
 Add new:
 	WarmGlow
+	CompassLodestone
+	Fullbright

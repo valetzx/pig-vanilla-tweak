@@ -26,6 +26,6 @@ vec4 minecraft_sample_lightmap(sampler2D lightMap, ivec2 uv) {
 	vec4 defaultLightColor = texture(lightMap, clamp(uv / 256.0, vec2(0.5 / 16.0), vec2(15.5 / 16.0))); // Gets what the light color would be in vanilla.
 	
 	if (blockLight > 0.0) return defaultLightColor * vec4(lightModifier, 1.0); // If there is enough block light, add the light modifier.
-	else return defaultLightColor; // If there is no block light, return default.
-	
+	else return texture(lightMap, clamp(vec2(240.0, 240.0) / 256.0, vec2(0.5 / 16.0), vec2(15.5 / 16.0)));
+    
 }
